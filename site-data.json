@@ -2,154 +2,154 @@
   "business": {
     "name": "Alfred's Auto Services Center",
     "shortName": "Alfred's Auto",
-    "tagline": "Dallas's Trusted Auto Repair Since 1995",
+    "tagline": "Trusted Dallas Auto Repair Since 1995",
     "niche": "Auto Mechanic",
     "phone": "(214) 533-8915",
     "address": "4615 Lawnview Ave, Dallas, TX 75227",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri 7:30 AM - 6:00 PM, Sat 8:00 AM - 2:00 PM",
+    "hours": "Mon-Fri 7:30 AM - 5:30 PM, Sat 8:00 AM - 12:00 PM",
     "ctaLabel": "Schedule Appointment",
     "headerCta": "Call Now"
   },
   "seo": {
     "title": "Alfred's Auto Services Center | Expert Auto Repair in Dallas, TX",
-    "description": "Trusted auto mechanic in Dallas, TX since 1995. Expert repairs, diagnostics, and maintenance. Call (214) 533-8915 for reliable service."
+    "description": "Alfred's Auto Services Center in Dallas, TX offers expert auto repair, brake service, engine diagnostics, and more. Family-owned since 1995. Call (214) 533-8915."
   },
   "home": {
     "hero": {
-      "eyebrow": "Family-Owned & Operated Since 1995",
-      "headline": "Expert Auto Repair You Can Trust in Dallas",
-      "subheadline": "From routine maintenance to major repairs, our certified technicians deliver quality workmanship and honest advice. Experience the Alfred's difference.",
-      "primaryCta": "Schedule Service",
+      "eyebrow": "Dallas' Premier Auto Repair Shop",
+      "headline": "Expert Auto Repair You Can Rely On",
+      "subheadline": "From routine maintenance to complex engine diagnostics, our certified technicians keep your vehicle running smoothly.",
+      "primaryCta": "Schedule Appointment",
       "secondaryCta": "Call (214) 533-8915"
     },
     "stats": [
       {
-        "value": "29+",
+        "value": "28+",
         "label": "Years of Service"
       },
       {
-        "value": "10,000+",
+        "value": "5,000+",
         "label": "Vehicles Repaired"
-      },
-      {
-        "value": "5.0",
-        "label": "Average Rating"
       },
       {
         "value": "100%",
         "label": "Customer Satisfaction"
+      },
+      {
+        "value": "4.9",
+        "label": "Average Rating"
       }
     ],
     "featureSections": [
       {
-        "eyebrow": "Transparent Service",
-        "title": "Honest Diagnostics & Upfront Pricing",
-        "body": "We believe in clear communication. Every repair comes with a detailed estimate and explanation before any work begins. No hidden fees, no surprises.",
+        "eyebrow": "Quality Service",
+        "title": "Comprehensive Auto Repair & Maintenance",
+        "body": "Our team handles everything from oil changes to transmission repairs. We use state-of-the-art diagnostic equipment to ensure your car gets the care it deserves.",
         "bullets": [
-          "Free multi-point inspection",
-          "Digital photos of findings",
-          "Written estimate with options"
+          "Certified technicians with years of experience",
+          "Advanced diagnostic tools for accurate repairs",
+          "Transparent pricing and upfront estimates"
         ],
         "reverse": false,
-        "cardLabel": "Peace of Mind",
-        "cardTitle": "Warranty Included",
-        "cardBody": "All repairs are backed by our comprehensive warranty, so you drive away confident."
+        "cardLabel": "Our Promise",
+        "cardTitle": "Peace of Mind",
+        "cardBody": "We stand behind our work with a 12-month/12,000-mile warranty on all repairs."
       },
       {
-        "eyebrow": "Certified Technicians",
-        "title": "Expert Care for All Makes & Models",
-        "body": "Our ASE-certified mechanics use the latest diagnostic equipment to service domestic and import vehicles. We stay current with training to handle everything from oil changes to engine rebuilds.",
+        "eyebrow": "Customer Focused",
+        "title": "We Treat Your Car Like Our Own",
+        "body": "At Alfred's, we believe in building lasting relationships. We take the time to explain repairs and answer your questions, so you feel confident in every decision.",
         "bullets": [
-          "ASE-certified master technicians",
-          "Advanced diagnostic tools",
-          "Specialized training for all brands"
+          "Friendly, knowledgeable staff",
+          "Comfortable waiting area with free Wi-Fi",
+          "Shuttle service available for your convenience"
         ],
         "reverse": true,
-        "cardLabel": "Quality Parts",
-        "cardTitle": "OEM & Premium Alternatives",
-        "cardBody": "We use only high-quality parts that meet or exceed manufacturer specifications, ensuring longevity and performance."
+        "cardLabel": "Testimonial",
+        "cardTitle": "Trusted by Dallas Drivers",
+        "cardBody": "Alfred's always goes above and beyond. They saved me hundreds on a repair and had my car ready same day."
       }
     ],
-    "whyTitle": "Why Choose Alfred's Auto Services Center?",
+    "whyTitle": "Why Choose Alfred's Auto?",
     "whyChooseUs": [
       {
-        "title": "Family-Owned Legacy",
-        "description": "Proudly serving the Dallas community for over 29 years with honest, reliable service."
+        "title": "Experienced Technicians",
+        "description": "Our ASE-certified mechanics have decades of combined experience working on all makes and models."
       },
       {
-        "title": "Certified Expertise",
-        "description": "Our ASE-certified technicians bring years of experience and continuous training to every job."
+        "title": "Honest & Transparent",
+        "description": "We provide detailed estimates before any work begins and never recommend unnecessary repairs."
       },
       {
-        "title": "Transparent Pricing",
-        "description": "Get a clear, detailed estimate before any work begins. No hidden costs or surprises."
+        "title": "Fast Turnaround",
+        "description": "Most repairs are completed same-day or within 24 hours, so you're back on the road quickly."
       },
       {
-        "title": "Customer First",
-        "description": "Your satisfaction is our priority. We treat every vehicle like it's our own."
+        "title": "Family-Owned & Operated",
+        "description": "We've been serving the Dallas community since 1995, treating every customer like family."
       }
     ],
     "testimonials": [
       {
-        "quote": "Alfred's is the only shop I trust with my car. They explain everything and the work is always top-notch.",
-        "author": "Jessica T.",
-        "role": "Dallas homeowner"
+        "quote": "Alfred's is the only shop I trust with my truck. They're honest, fair, and always get the job done right.",
+        "author": "Mike R.",
+        "role": "Longtime Customer"
       },
       {
-        "quote": "Fair prices and honest advice. They saved me hundreds compared to the dealership.",
-        "author": "Mark R.",
-        "role": "Lake Highlands resident"
+        "quote": "I brought my car in for a strange noise and they diagnosed it immediately. Fast service and reasonable prices.",
+        "author": "Jessica L.",
+        "role": "Dallas Resident"
       },
       {
-        "quote": "I've been coming here for years. Quick turnaround and great communication.",
-        "author": "Angela P.",
-        "role": "Pleasant Grove commuter"
+        "quote": "Great communication throughout the repair process. They even sent me photos of the issue. Highly recommend!",
+        "author": "David K.",
+        "role": "Pleasant Grove"
       }
     ],
     "cta": {
-      "headline": "Ready for Reliable Auto Repair?",
-      "subheadline": "Schedule your appointment today and experience the Alfred's difference.",
-      "primaryCta": "Book Online",
+      "headline": "Ready to Get Started?",
+      "subheadline": "Call or schedule online today for expert auto repair in Dallas.",
+      "primaryCta": "Schedule Appointment",
       "secondaryCta": "Call (214) 533-8915"
     }
   },
   "servicesPage": {
-    "intro": "From routine oil changes to complex engine repairs, our certified technicians provide comprehensive auto care for all makes and models. Every service is backed by our commitment to quality and transparency."
+    "intro": "At Alfred's Auto Services Center, we offer a full range of auto repair and maintenance services to keep your vehicle running at its best. From routine oil changes to major engine repairs, our skilled technicians have you covered."
   },
   "services": [
     {
       "icon": "01",
       "title": "Engine Diagnostics & Repair",
-      "shortDescription": "Advanced diagnostic testing and expert engine repair to restore performance and reliability.",
-      "longDescription": "Using state-of-the-art diagnostic equipment, our technicians pinpoint issues quickly and accurately. Whether it's a check engine light, rough idling, or loss of power, we provide thorough analysis and lasting repairs.",
+      "shortDescription": "Accurate diagnostics and reliable engine repairs to restore performance.",
+      "longDescription": "Our advanced diagnostic equipment pinpoints issues quickly, saving you time and money. Whether it's a check engine light or a performance problem, we'll get to the root cause and fix it right.",
       "benefits": [
-        "Fast, accurate diagnostics",
-        "Long-lasting engine repairs",
-        "Improved fuel efficiency and performance"
+        "State-of-the-art diagnostic scanners",
+        "Certified technicians for all engine types",
+        "Transparent diagnosis reports"
       ],
       "process": [
         {
-          "title": "Computer Scan",
-          "description": "Connect advanced scanners to read error codes and live data."
+          "title": "Comprehensive Scan",
+          "description": "We connect your vehicle to our diagnostic system to read error codes and assess performance."
         },
         {
-          "title": "Physical Inspection",
-          "description": "Thoroughly inspect engine components to confirm the issue."
+          "title": "Detailed Explanation",
+          "description": "Our technician explains the findings and provides a clear estimate of needed repairs."
         },
         {
-          "title": "Repair & Test",
-          "description": "Perform necessary repairs and test drive to ensure proper function."
+          "title": "Precision Repair",
+          "description": "We perform the repair using quality parts and test the system to ensure optimal function."
         }
       ],
       "faqs": [
         {
           "question": "How long does an engine diagnostic take?",
-          "answer": "Most diagnostics are completed within one hour, depending on complexity."
+          "answer": "Most diagnostics take about an hour. Complex issues may require additional time."
         },
         {
-          "question": "Do you offer warranty on engine repairs?",
-          "answer": "Yes, all engine repairs come with a comprehensive warranty for your peace of mind."
+          "question": "Do you repair all engine types?",
+          "answer": "Yes, our technicians are experienced with gasoline, diesel, and hybrid engines."
         }
       ],
       "slug": "engine-diagnostics-repair"
@@ -157,158 +157,158 @@
     {
       "icon": "02",
       "title": "Brake Service & Repair",
-      "shortDescription": "Complete brake inspections, pad replacement, rotor resurfacing, and caliper repair.",
-      "longDescription": "Your safety depends on reliable brakes. We inspect every component — pads, rotors, calipers, lines, and fluid — to ensure optimal stopping power. We use premium parts and precision techniques.",
+      "shortDescription": "Complete brake inspections and repairs for safety and performance.",
+      "longDescription": "Your brakes are your vehicle's most important safety feature. We inspect pads, rotors, calipers, and fluid to ensure reliable stopping power.",
       "benefits": [
-        "Enhanced stopping power",
-        "Reduced brake noise and vibration",
-        "Extended brake system life"
+        "Thorough brake inspection included",
+        "High-quality OEM and aftermarket parts",
+        "Brake fluid flush services available"
       ],
       "process": [
         {
-          "title": "Brake Inspection",
-          "description": "Measure pad thickness, rotor condition, and fluid level."
+          "title": "Inspection",
+          "description": "We check brake pads, rotors, calipers, lines, and fluid level."
         },
         {
-          "title": "Component Replacement",
-          "description": "Replace worn pads, resurface or replace rotors as needed."
+          "title": "Estimate",
+          "description": "We provide a detailed estimate with options for parts and labor."
         },
         {
-          "title": "System Test",
-          "description": "Test brake function and bleed system to remove air."
+          "title": "Repair & Test",
+          "description": "We replace worn components, bleed the system, and test drive to confirm performance."
         }
       ],
       "faqs": [
         {
-          "question": "How often should I replace brake pads?",
-          "answer": "Typically every 30,000–50,000 miles, but it depends on driving habits."
+          "question": "How often should I replace my brakes?",
+          "answer": "Typically every 30,000-50,000 miles, but it depends on driving habits and conditions."
         },
         {
-          "question": "What are signs of brake trouble?",
-          "answer": "Squealing, grinding, vibration, or a soft brake pedal indicate it's time for an inspection."
+          "question": "What are signs of brake problems?",
+          "answer": "Squealing, grinding, a soft pedal, or vibration when braking."
         }
       ],
       "slug": "brake-service-repair"
     },
     {
       "icon": "03",
-      "title": "Oil Change & Preventive Maintenance",
-      "shortDescription": "Regular oil changes and multi-point inspections to keep your engine running smoothly.",
-      "longDescription": "Preventive maintenance is the key to a long-lasting vehicle. Our oil change service includes high-quality oil and filter, plus a free multi-point inspection to catch small issues before they become big problems.",
+      "title": "Oil Change & Routine Maintenance",
+      "shortDescription": "Keep your engine healthy with regular oil changes and fluid checks.",
+      "longDescription": "Regular oil changes are the best way to prolong engine life. We use quality oil and filters, and include a multi-point inspection with every service.",
       "benefits": [
-        "Extended engine life",
-        "Better fuel economy",
-        "Early detection of potential issues"
+        "Conventional and synthetic oil options",
+        "Complimentary fluid top-offs",
+        "Multi-point vehicle inspection included"
       ],
       "process": [
         {
-          "title": "Oil Drain & Filter Change",
-          "description": "Drain old oil, replace filter, and refill with fresh oil."
+          "title": "Drain Old Oil",
+          "description": "We drain the old oil and replace the oil filter."
         },
         {
-          "title": "Multi-Point Inspection",
-          "description": "Check belts, hoses, fluids, tires, and battery."
+          "title": "Refill with New Oil",
+          "description": "We add the recommended oil type and check levels."
         },
         {
-          "title": "Report & Recommendations",
-          "description": "Provide a detailed report with any recommended services."
+          "title": "Inspection",
+          "description": "We check belts, hoses, tires, lights, and fluids."
         }
       ],
       "faqs": [
         {
-          "question": "What type of oil do you use?",
-          "answer": "We use high-quality conventional and synthetic oils to meet your vehicle's specifications."
+          "question": "How often should I get an oil change?",
+          "answer": "Every 3,000-5,000 miles for conventional oil, or 7,500-10,000 for synthetic."
         },
         {
-          "question": "How often should I get an oil change?",
-          "answer": "Every 3,000–5,000 miles for conventional oil, or up to 7,500 miles for synthetic."
+          "question": "What type of oil do you use?",
+          "answer": "We use high-quality brands like Mobil 1 and Castrol. You can choose conventional or synthetic."
         }
       ],
-      "slug": "oil-change-preventive-maintenance"
+      "slug": "oil-change-routine-maintenance"
     },
     {
       "icon": "04",
       "title": "AC & Heating System Repair",
-      "shortDescription": "Expert diagnosis and repair for your vehicle's air conditioning and heating systems.",
-      "longDescription": "Stay comfortable year-round with a fully functioning HVAC system. Our technicians are trained to diagnose and repair all AC and heating components, from compressors to blend doors.",
+      "shortDescription": "Keep your cabin comfortable with expert AC and heating service.",
+      "longDescription": "From refrigerant recharge to compressor replacement, we diagnose and fix your vehicle's climate control system efficiently.",
       "benefits": [
-        "Quick cool-down and consistent temperature",
-        "Elimination of unusual odors or noises",
-        "Improved system efficiency"
+        "AC performance test and leak detection",
+        "Heater core and blower motor repairs",
+        "Environmentally responsible refrigerant handling"
       ],
       "process": [
         {
-          "title": "System Inspection",
-          "description": "Check refrigerant levels, compressor function, and cabin air filter."
+          "title": "System Diagnosis",
+          "description": "We check refrigerant pressure, compressor function, and airflow."
         },
         {
-          "title": "Leak Detection",
-          "description": "Use electronic leak detectors and UV dye to find leaks."
+          "title": "Repair Plan",
+          "description": "We identify the issue and provide a clear repair plan with costs."
         },
         {
-          "title": "Repair & Recharge",
-          "description": "Replace faulty components and recharge system to manufacturer specs."
+          "title": "Service & Test",
+          "description": "We perform the repair, recharge if needed, and test system performance."
         }
       ],
       "faqs": [
         {
           "question": "Why is my AC blowing warm air?",
-          "answer": "Common causes include low refrigerant, a faulty compressor, or a leak in the system."
+          "answer": "Common causes include low refrigerant, a faulty compressor, or a leak."
         },
         {
-          "question": "How often should I service my car's AC?",
-          "answer": "We recommend an AC check every two years or if you notice reduced performance."
+          "question": "How often should I service my AC?",
+          "answer": "We recommend an AC check every two years to ensure efficiency."
         }
       ],
       "slug": "ac-heating-system-repair"
     }
   ],
   "about": {
-    "headline": "Your Trusted Dallas Auto Repair Since 1995",
-    "mission": "To provide honest, high-quality auto repair services that keep our community safe on the road.",
+    "headline": "Family-Owned Auto Care Since 1995",
+    "mission": "To provide honest, high-quality auto repair that keeps Dallas drivers safe and satisfied.",
     "story": [
-      "Alfred's Auto Services Center was founded in 1995 by Alfred Martinez, a master mechanic with a vision to create a repair shop that prioritized integrity and customer education. Starting with a small two-bay garage on Lawnview Avenue, Alfred built a reputation for thorough diagnostics, fair pricing, and work that lasted. Word spread quickly among Dallas residents who were tired of being upsold on unnecessary repairs.",
-      "Over the years, the shop has grown into a full-service facility with a team of ASE-certified technicians. Despite the expansion, Alfred's commitment to transparency and community remains unchanged. We treat every customer like a neighbor, explaining each repair in plain language and offering options that fit their budget. Today, we're proud to be one of Dallas's most trusted auto repair centers."
+      "Alfred's Auto Services Center was founded in 1995 by Alfred Martinez, a master mechanic with a passion for cars and a commitment to integrity. Starting with a small two-bay shop on Lawnview Ave, Alfred built a reputation for fair pricing and meticulous work. Over the years, the business grew through word-of-mouth as customers appreciated the personalized service and technical expertise.",
+      "Today, Alfred's Auto remains family-owned and operated, with a team of ASE-certified technicians who share Alfred's dedication to quality. We invest in the latest diagnostic tools and continuous training to serve the evolving needs of modern vehicles. Whether you drive a sedan, SUV, or truck, you can count on us for reliable repairs and a friendly experience."
     ],
     "highlight": {
-      "stat": "29+",
-      "label": "Years Serving Dallas"
+      "stat": "28+",
+      "label": "Years of Trusted Service"
     },
     "coreValues": [
       {
         "title": "Integrity",
-        "description": "We always tell you what your car needs — and what it doesn't."
+        "description": "We always put the customer's needs first and never recommend unnecessary work."
       },
       {
         "title": "Quality",
-        "description": "Every repair is performed to the highest standards using premium parts."
+        "description": "We use top-tier parts and follow manufacturer specifications for every repair."
       },
       {
         "title": "Community",
-        "description": "We support our local community and treat every customer like family."
+        "description": "We're proud to be a locally owned business that supports Dallas and its residents."
       },
       {
-        "title": "Expertise",
-        "description": "Continuous training and advanced tools ensure we stay ahead of automotive technology."
+        "title": "Continuous Improvement",
+        "description": "We stay current with automotive technology to provide the best service possible."
       }
     ]
   },
   "contact": {
-    "headline": "Get in Touch with Alfred's Auto",
-    "subheadline": "Ready to schedule service or have a question? We're here to help.",
+    "headline": "Get in Touch",
+    "subheadline": "We're here to help with all your auto repair needs. Call or visit us today.",
     "primaryCta": "Call (214) 533-8915",
     "formCta": "Send Message",
     "serviceAreas": [
       "Dallas",
+      "Pleasant Grove",
       "Mesquite",
       "Garland",
-      "Lake Highlands",
-      "Pleasant Grove",
-      "Balch Springs"
+      "Balch Springs",
+      "Hutchins"
     ]
   },
   "social_proof": {
-    "rating": 5,
+    "rating": "",
     "reviews": null
   },
   "meta": {
